@@ -1,2 +1,2 @@
 # Delta-demo2
-Hello World
+Hello World.
